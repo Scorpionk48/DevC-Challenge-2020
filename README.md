@@ -1,4 +1,4 @@
-# DevC-Challenge-2020
+# DevC-Challenge-Hanoi-2020 (29/6/2020 - 04/9/2020)
 Facebook link: https://www.facebook.com/DevCVNInnovationChallenge/  
 Website: https://devc-challenge.coderschool.vn/  
 
