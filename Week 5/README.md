@@ -1,6 +1,6 @@
 # Week 5  
 ## Logistic Regression
-Data set: [labeledTrainData](https://drive.google.com/drive/folders/1J593HXUvoBv0_eVm7MaS4HelfT48me_B)
+Data set: [labeledTrainData](https://drive.google.com/file/d/1phHsof6kAwqi6sRBWO-BTkgYCuYEkh4H/view?usp=sharing)
 ### Objectives  
 - Classification problem  
 - Logistic Regression model  
