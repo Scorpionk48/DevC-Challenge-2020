@@ -12,7 +12,7 @@
   2. mechanics of pytorch
   3. basic classes and operations
 ### [Quick & Brief Tutorial/Lab of PyTorch Basics and Mechanics](https://colab.research.google.com/drive/1dx4FT4tFpwOcPCVZKjZ9uHCwMyM9xndQ)
-## Session 2: Simple computer vision classification project using Pytorch (CNN):
+## Session 2: Simple computer vision classification project using Pytorch (CNN)
 ### Objectives
 Fashion MNIST dataset:
 - a training set of 60,000 examples and a test set of 10,000 examples.
